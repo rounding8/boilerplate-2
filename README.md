@@ -29,7 +29,7 @@ $ yarn start                                                    # Execute in web
 ## Deployment
 
 ```
-$ yarn build                                                    # Generates Production *app* distribution index.html, bundle.js, etc.
+$ yarn build            # Generates Production *app* distribution index.html, bundle.js, etc.
 ```
 
 > App deployment can be handled using [CircleCI](https://circleci.com), [Jenkins](https://jenkins.io), [Grunt](https://gruntjs.com), etc.
@@ -69,7 +69,9 @@ $ yarn build                                                    # Generates Prod
 | [react](https://reactjs.org)                        | [react](https://www.npmjs.com/package/react)                   | A JavaScript library for building user interfaces     |
 | [ReactDOM](https://reactjs.org/docs/react-dom.html) | [react-dom](https://www.npmjs.com/package/react-dom)           | DOM-specific methods used at top level of application |
 
-> See additional [development dependencies](https://github.com/rounding8/boilerplate-2/blob/master/package.json#22)
+<br>
+
+    > See additional [development dependencies](https://github.com/rounding8/boilerplate-2/blob/master/package.json#L22-L32)
 
 <br>
 
@@ -83,4 +85,5 @@ $ yarn build                                                    # Generates Prod
 
 | Version | Date     | Commit                                                                                                | Description |
 |---------|----------|-------------------------------------------------------------------------------------------------------|-------------|
+| 1.0.0   | 11-12-18 | [19d4816](https://github.com/rounding8/boilerplate-2/commit/2c59de8d132f2c26dca35913820c70218360e82b) | Updated Boilerplate w/ Initial Application |
 | 0.0.0   | 11-12-18 | [d4458df](https://github.com/rounding8/boilerplate-2/commit/d4458dff80db7f09a930f74fc58d63cc8a11ff2d) | 🎉  Initial commit |
