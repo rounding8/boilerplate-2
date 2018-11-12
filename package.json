@@ -1,0 +1,38 @@
+{
+  "name": "rounding8-boilerplate-2",
+  "version": "1.0.0",
+  "description": "Demo #2 ∞ React + webpack Application 🍽",
+  "homepage": "http://roundingeight.com",
+  "license": "MIT",
+  "author": "Raven N. Allan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rounding8/boilerplate-2"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "babel-polyfill": "6.26.0",
+    "jquery": "3.3.1",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.5"
+  },
+  "engines": {
+    "node": ">= 10",
+    "yarn": ">= 1"
+  },
+  "private": true
+}
