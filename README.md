@@ -71,7 +71,7 @@ $ yarn build            # Generates Production *app* distribution index.html, bu
 
 <br>
 
-    > See additional [development dependencies](https://github.com/rounding8/boilerplate-2/blob/master/package.json#L22-L32)
+> See additional [development dependencies](https://github.com/rounding8/boilerplate-2/blob/master/package.json#L22-L32)
 
 <br>
 
