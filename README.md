@@ -1,5 +1,5 @@
 
-# [Demo #2 ∞ React + webpack Application 🍽](http://roundingeight.com//Demos/boilerplate-2/)
+# [Demo #2 ∞ React + webpack Application](http://roundingeight.com//Demos/boilerplate-2/) 🍽
 
 ### Server-side Web Application using React + webpack
 
