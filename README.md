@@ -1,5 +1,5 @@
 
-# Demo #2 ∞ React + webpack Application 🍽
+# [Demo #2 ∞ React + webpack Application](http://roundingeight.com//Demos/boilerplate-2/) 🍽
 
 ### Server-side Web Application using React + webpack
 
@@ -17,7 +17,7 @@ This setup would be ideal for deploying via [Docker](https://www.docker.com), [A
 $ git clone ssh://git@github.com:rounding8/boilerplate-2.git    # Clone Remote Repository
 $ cd boilerplate-2/                                             # Change Directory to "boilerplate-2" of Local Repository
 $ yarn                                                          # Install Application Dependencies via [Yarn](https://yarnpkg.com)
-$ yarn start                                                    # Execute in webpack [devServer]()
+$ yarn start                                                    # Execute in webpack [devServer](https://webpack.js.org/configuration/dev-server)
 ```
 
 <br>
